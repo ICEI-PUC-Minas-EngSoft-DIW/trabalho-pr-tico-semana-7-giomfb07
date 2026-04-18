@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanna Marques Freire Barbosa
+- Matricula: 908579
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Imagem console](public/img/printconsole.png)
 
 
 
